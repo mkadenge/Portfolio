@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8347d1d0.css",
+    "main.js": "/Portfolio/static/js/main.f7c7b787.js",
+    "static/media/svfl1.png": "/Portfolio/static/media/svfl1.3cc8e699b86457d6090d.png",
+    "static/media/vvf.png": "/Portfolio/static/media/vvf.2efeeed702097d39b3ff.png",
+    "static/media/rmd.png": "/Portfolio/static/media/rmd.ea8af6dc27921e72be70.png",
+    "static/media/Mark Madaga CV.pdf": "/Portfolio/static/media/Mark Madaga CV.f23c6dda79029ab7ea47.pdf",
+    "static/media/ff.png": "/Portfolio/static/media/ff.aeb3edca90c359e3b064.png",
+    "static/media/impe.png": "/Portfolio/static/media/impe.421f5476ee2df46ad3ed.png",
+    "static/media/roni.png": "/Portfolio/static/media/roni.e2bece514f6184f8f3d5.png",
+    "static/media/maky.png": "/Portfolio/static/media/maky.cb5516bd6ea2719a74c3.png",
+    "static/media/red.png": "/Portfolio/static/media/red.ddebb6ad0388b1cd0d76.png",
+    "static/media/jimm.jpg": "/Portfolio/static/media/jimm.4804f792f191c95a7067.jpg",
+    "static/media/Alice.jpg": "/Portfolio/static/media/Alice.03feed325fa53196d57d.jpg",
+    "static/media/dann.jpg": "/Portfolio/static/media/dann.e7abe96dba2163d8af7f.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.8347d1d0.css.map": "/Portfolio/static/css/main.8347d1d0.css.map",
+    "main.f7c7b787.js.map": "/Portfolio/static/js/main.f7c7b787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8347d1d0.css",
+    "static/js/main.f7c7b787.js"
+  ]
+}
